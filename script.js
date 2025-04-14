@@ -9,10 +9,11 @@ MenuBtn.addEventListener("click", function (e) {
 
 let typed = new Typed(".auto-input", {
   strings: [
-    "A Front End Developer!",
-    "Mastering HTML, CSS And JS",
-    "JavaScript Enthusiast",
-    "Learning And Practicing React JS",
+    "Frontend Developer Specializing in React & Next.js",
+    "Building Fast, Scalable Web Apps with Modern JavaScript Frameworks",
+    // "Mastered HTML, CSS, JavaScript — and Taking It Further with React Ecosystem",
+    "Focused on Clean Code, Performance, and Seamless User Experience",
+    "Always Learning — From Components to Full-Stack Concepts with Next.js",
   ],
   typeSpeed: 100,
   backSpeed: 200,
